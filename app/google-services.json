@@ -8,28 +8,28 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:655695950252:android:75e3e62cef9059ee",
+        "mobilesdk_app_id": "1:XXXXXXXX:android:75e3e62cef9059ee",
         "android_client_info": {
           "package_name": "com.example.manu.rough"
         }
       },
       "oauth_client": [
         {
-          "client_id": "655695950252-5v9thud47def7ag3skls1hvn7d187hk6.apps.googleusercontent.com",
+          "client_id": "655695950252-XXXXXXX.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
             "package_name": "com.example.manu.rough",
-            "certificate_hash": "6cc97b3d146d3177984a35cd784842dc131c3a26"
+            "certificate_hash": "XXXXXX"
           }
         },
         {
-          "client_id": "655695950252-38artrvpegapac84g53ffbt5gpjomvpc.apps.googleusercontent.com",
+          "client_id": "655695950252-XXXXX.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBkQb_bRgniLiYQB1AJXUqSDPSihnsCPIE"
+          "current_key": "XXXXXXXX"
         }
       ],
       "services": {
@@ -40,7 +40,7 @@
           "status": 2,
           "other_platform_oauth_client": [
             {
-              "client_id": "655695950252-38artrvpegapac84g53ffbt5gpjomvpc.apps.googleusercontent.com",
+              "client_id": "655695950252-XXXXXX.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
@@ -52,18 +52,18 @@
     },
     {
       "client_info": {
-        "mobilesdk_app_id": "1:655695950252:android:8cfb742763188c93",
+        "mobilesdk_app_id": "1:XXXXX:android:8cfb742763188c93",
         "android_client_info": {
           "package_name": "com.example.manu.orgofarming"
         }
       },
       "oauth_client": [
         {
-          "client_id": "655695950252-gi7rj503f6nop0navb48s6j3l4e2rvdl.apps.googleusercontent.com",
+          "client_id": "655695950252-XXXX.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
             "package_name": "com.example.manu.orgofarming",
-            "certificate_hash": "6cc97b3d146d3177984a35cd784842dc131c3a26"
+            "certificate_hash": "XXXXXXX"
           }
         },
         {
@@ -73,7 +73,7 @@
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBkQb_bRgniLiYQB1AJXUqSDPSihnsCPIE"
+          "current_key": "XXXXX"
         }
       ],
       "services": {
@@ -84,7 +84,7 @@
           "status": 2,
           "other_platform_oauth_client": [
             {
-              "client_id": "655695950252-38artrvpegapac84g53ffbt5gpjomvpc.apps.googleusercontent.com",
+              "client_id": "655695950252-XXXXX.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
